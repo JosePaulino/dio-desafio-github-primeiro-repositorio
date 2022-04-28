@@ -1,0 +1,37 @@
+*criação, atualizacao, sincronização de um repositorio 
+
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+-Comandos Git
+
+
+git config
+
+Definir o seu nome de usuário e endereço de e-mail
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+-----------------------------------------
+
+git help
+
+git help {comando}
+git {comando} --help
+man git- {comando}
+
+-----------------------------------------
+
+Criando o projeto
+
+git init
+Inicializando um Repositório em um Diretório Existente
+
+git clone
+git clone [url]
+
+
+
+
+
